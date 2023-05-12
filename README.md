@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="./github_banner.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitz94&label=Profile%20views&color=0e75b6&style=flat" alt="smitz94" /> </p>
-
 - 🔭 I’m currently working on **implementing LLM in production.**
 
 - 🌱 I’m currently learning **MLOps with Rust.**
